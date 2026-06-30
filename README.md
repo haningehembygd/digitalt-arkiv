@@ -1,2 +1,3 @@
 # digitalt-arkiv
-Arkiv för digitala produktioner från Gillet. 
+
+Digitalt arkiv för Haninge Hembygdsgilles publika handlingar. Repositoryt innehåller officiella dokument och fungerar som föreningens långsiktiga digitala arkiv.
