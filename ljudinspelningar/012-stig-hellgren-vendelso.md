@@ -32,6 +32,13 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-012-stig-hellgren-vendelso-v1)
 
-`ljud-012-stig-hellgren-vendelso-v1`
+### Ljudfiler
+
+- [stig-hellgren-vendelso.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-012-stig-hellgren-vendelso-v1/stig-hellgren-vendelso.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-012-stig-hellgren-vendelso-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-012-stig-hellgren-vendelso-v1/RELEASE-NOTES.md)

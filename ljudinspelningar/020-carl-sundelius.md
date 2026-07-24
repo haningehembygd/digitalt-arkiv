@@ -39,6 +39,20 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-020-carl-sundelius-v1)
 
-`ljud-020-carl-sundelius-v1`
+### Ljudfiler
+
+- [carl-sundelius-del-01.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/carl-sundelius-del-01.mp3)
+- [carl-sundelius-del-02.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/carl-sundelius-del-02.mp3)
+- [carl-sundelius-del-03.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/carl-sundelius-del-03.mp3)
+- [carl-sundelius-del-04.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/carl-sundelius-del-04.mp3)
+- [carl-sundelius-del-05.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/carl-sundelius-del-05.mp3)
+- [carl-sundelius-del-06.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/carl-sundelius-del-06.mp3)
+- [carl-sundelius-del-07.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/carl-sundelius-del-07.mp3)
+- [carl-sundelius-del-08.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/carl-sundelius-del-08.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-020-carl-sundelius-v1/RELEASE-NOTES.md)

@@ -32,6 +32,13 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-006-frida-erlandsson-ribby-v1)
 
-`ljud-006-frida-erlandsson-ribby-v1`
+### Ljudfiler
+
+- [frida-erlandsson-ribby.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-006-frida-erlandsson-ribby-v1/frida-erlandsson-ribby.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-006-frida-erlandsson-ribby-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-006-frida-erlandsson-ribby-v1/RELEASE-NOTES.md)

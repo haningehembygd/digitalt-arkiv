@@ -33,6 +33,14 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-015-emmy-fornander-stromslund-v1)
 
-`ljud-015-emmy-fornander-stromslund-v1`
+### Ljudfiler
+
+- [emmy-fornander-del-01.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-015-emmy-fornander-stromslund-v1/emmy-fornander-del-01.mp3)
+- [emmy-fornander-del-02.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-015-emmy-fornander-stromslund-v1/emmy-fornander-del-02.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-015-emmy-fornander-stromslund-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-015-emmy-fornander-stromslund-v1/RELEASE-NOTES.md)

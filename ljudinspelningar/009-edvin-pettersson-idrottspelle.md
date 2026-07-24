@@ -32,6 +32,13 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-009-edvin-pettersson-idrottspelle-v1)
 
-`ljud-009-edvin-pettersson-idrottspelle-v1`
+### Ljudfiler
+
+- [edvin-pettersson-idrottspelle.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-009-edvin-pettersson-idrottspelle-v1/edvin-pettersson-idrottspelle.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-009-edvin-pettersson-idrottspelle-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-009-edvin-pettersson-idrottspelle-v1/RELEASE-NOTES.md)

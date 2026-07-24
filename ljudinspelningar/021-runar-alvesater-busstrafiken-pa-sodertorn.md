@@ -33,6 +33,14 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-021-runar-alvesater-busstrafiken-pa-sodertorn-v1)
 
-`ljud-021-runar-alvesater-busstrafiken-pa-sodertorn-v1`
+### Ljudfiler
+
+- [runar-alvesater-del-01.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-021-runar-alvesater-busstrafiken-pa-sodertorn-v1/runar-alvesater-del-01.mp3)
+- [runar-alvesater-del-02.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-021-runar-alvesater-busstrafiken-pa-sodertorn-v1/runar-alvesater-del-02.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-021-runar-alvesater-busstrafiken-pa-sodertorn-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-021-runar-alvesater-busstrafiken-pa-sodertorn-v1/RELEASE-NOTES.md)

@@ -34,6 +34,15 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-008-nils-beckius-v1)
 
-`ljud-008-nils-beckius-v1`
+### Ljudfiler
+
+- [nils-beckius-del-01.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-008-nils-beckius-v1/nils-beckius-del-01.mp3)
+- [nils-beckius-del-02.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-008-nils-beckius-v1/nils-beckius-del-02.mp3)
+- [nils-beckius-del-03.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-008-nils-beckius-v1/nils-beckius-del-03.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-008-nils-beckius-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-008-nils-beckius-v1/RELEASE-NOTES.md)

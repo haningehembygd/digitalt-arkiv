@@ -33,6 +33,14 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-017-selma-fingal-och-nils-listam-v1)
 
-`ljud-017-selma-fingal-och-nils-listam-v1`
+### Ljudfiler
+
+- [selma-fingal-och-nils-listam-del-01.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-017-selma-fingal-och-nils-listam-v1/selma-fingal-och-nils-listam-del-01.mp3)
+- [selma-fingal-och-nils-listam-del-02.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-017-selma-fingal-och-nils-listam-v1/selma-fingal-och-nils-listam-del-02.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-017-selma-fingal-och-nils-listam-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-017-selma-fingal-och-nils-listam-v1/RELEASE-NOTES.md)

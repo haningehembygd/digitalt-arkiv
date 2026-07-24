@@ -32,6 +32,13 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-011-john-och-anna-freden-haringe-v1)
 
-`ljud-011-john-och-anna-freden-haringe-v1`
+### Ljudfiler
+
+- [john-och-anna-freden-haringe.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-011-john-och-anna-freden-haringe-v1/john-och-anna-freden-haringe.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-011-john-och-anna-freden-haringe-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-011-john-och-anna-freden-haringe-v1/RELEASE-NOTES.md)

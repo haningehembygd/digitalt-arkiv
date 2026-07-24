@@ -33,6 +33,14 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-004-marta-froste-v1)
 
-`ljud-004-marta-froste-v1`
+### Ljudfiler
+
+- [marta-froste-del-01.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-004-marta-froste-v1/marta-froste-del-01.mp3)
+- [marta-froste-del-02.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-004-marta-froste-v1/marta-froste-del-02.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-004-marta-froste-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-004-marta-froste-v1/RELEASE-NOTES.md)

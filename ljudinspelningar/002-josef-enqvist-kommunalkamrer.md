@@ -32,6 +32,13 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-002-josef-enqvist-kommunalkamrer-v1)
 
-`ljud-002-josef-enqvist-kommunalkamrer-v1`
+### Ljudfiler
+
+- [josef-enqvist-vasterhaninges-forsta-kommunalkamrer.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-002-josef-enqvist-kommunalkamrer-v1/josef-enqvist-vasterhaninges-forsta-kommunalkamrer.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-002-josef-enqvist-kommunalkamrer-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-002-josef-enqvist-kommunalkamrer-v1/RELEASE-NOTES.md)

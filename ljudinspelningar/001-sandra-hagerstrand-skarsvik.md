@@ -33,6 +33,14 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-001-sandra-hagerstrand-skarsvik-v1)
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+### Ljudfiler
+
+- [sandra-hagerstrand-del-01-skarsvik.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-001-sandra-hagerstrand-skarsvik-v1/sandra-hagerstrand-del-01-skarsvik.mp3)
+- [sandra-hagerstrand-del-02.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-001-sandra-hagerstrand-skarsvik-v1/sandra-hagerstrand-del-02.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-001-sandra-hagerstrand-skarsvik-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-001-sandra-hagerstrand-skarsvik-v1/RELEASE-NOTES.md)

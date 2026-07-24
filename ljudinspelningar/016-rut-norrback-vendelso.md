@@ -33,6 +33,14 @@ Haninge Hembygdsgille.
 
 ## Nedladdning
 
-Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
+[**Öppna releasen och se alla filer**](https://github.com/haningehembygd/digitalt-arkiv/releases/tag/ljud-016-rut-norrback-vendelso-v1)
 
-`ljud-016-rut-norrback-vendelso-v1`
+### Ljudfiler
+
+- [rut-norrback-del-01.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-016-rut-norrback-vendelso-v1/rut-norrback-del-01.mp3)
+- [rut-norrback-del-02.mp3](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-016-rut-norrback-vendelso-v1/rut-norrback-del-02.mp3)
+
+### Kontrollfiler
+
+- [SHA256SUMS](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-016-rut-norrback-vendelso-v1/SHA256SUMS)
+- [RELEASE-NOTES.md](https://github.com/haningehembygd/digitalt-arkiv/releases/download/ljud-016-rut-norrback-vendelso-v1/RELEASE-NOTES.md)
