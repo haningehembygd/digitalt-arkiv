@@ -1,20 +1,19 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# John och Anna Fredén berättar om Häringe
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
-- Antal delar: 2
+- Nummer: 011
+- Lokal samling: `011-john-och-anna-freden-haringe`
+- Release: `ljud-011-john-och-anna-freden-haringe-v1`
+- Antal delar: 1
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+John och Anna Fredén berättar om Häringe.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `john-och-anna-freden-haringe.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +34,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-011-john-och-anna-freden-haringe-v1`

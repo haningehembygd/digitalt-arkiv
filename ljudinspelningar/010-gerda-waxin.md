@@ -1,20 +1,20 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Gerda Waxin – lantbrukare och tvättare
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
+- Nummer: 010
+- Lokal samling: `010-gerda-waxin`
+- Release: `ljud-010-gerda-waxin-v1`
 - Antal delar: 2
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En intervju med Gerda Waxin om hennes liv och verksamhet som lantbrukare och tvättare.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `gerda-waxin-del-01.mp3`
+- `gerda-waxin-del-02.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +35,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-010-gerda-waxin-v1`

@@ -1,20 +1,21 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Nils Beckius – järnvägare, kommunalpolitiker och fackföreningsman
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
-- Antal delar: 2
+- Nummer: 008
+- Lokal samling: `008-nils-beckius`
+- Release: `ljud-008-nils-beckius-v1`
+- Antal delar: 3
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En intervju med Nils Beckius om hans verksamhet som järnvägare, kommunalpolitiker och fackföreningsman.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `nils-beckius-del-01.mp3`
+- `nils-beckius-del-02.mp3`
+- `nils-beckius-del-03.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +36,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-008-nils-beckius-v1`

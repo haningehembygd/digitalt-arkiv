@@ -1,20 +1,19 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Frida Erlandsson – Ribby
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
-- Antal delar: 2
+- Nummer: 006
+- Lokal samling: `006-frida-erlandsson-ribby`
+- Release: `ljud-006-frida-erlandsson-ribby-v1`
+- Antal delar: 1
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En ljudinspelning med Frida Erlandsson med anknytning till Ribby.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `frida-erlandsson-ribby.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +34,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-006-frida-erlandsson-ribby-v1`

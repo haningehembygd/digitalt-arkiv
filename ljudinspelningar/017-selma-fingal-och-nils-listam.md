@@ -1,20 +1,20 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Selma Fingal och Nils Listam
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
+- Nummer: 017
+- Lokal samling: `017-selma-fingal-och-nils-listam`
+- Release: `ljud-017-selma-fingal-och-nils-listam-v1`
 - Antal delar: 2
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En intervju med Selma Fingal och Nils Listam.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `selma-fingal-och-nils-listam-del-01.mp3`
+- `selma-fingal-och-nils-listam-del-02.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +35,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-017-selma-fingal-och-nils-listam-v1`

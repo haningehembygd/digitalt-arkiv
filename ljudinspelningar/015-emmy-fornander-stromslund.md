@@ -1,20 +1,20 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Emmy Fornander – Strömslund
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
+- Nummer: 015
+- Lokal samling: `015-emmy-fornander-stromslund`
+- Release: `ljud-015-emmy-fornander-stromslund-v1`
 - Antal delar: 2
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En intervju med Emmy Fornander med anknytning till Strömslund.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `emmy-fornander-del-01.mp3`
+- `emmy-fornander-del-02.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +35,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-015-emmy-fornander-stromslund-v1`

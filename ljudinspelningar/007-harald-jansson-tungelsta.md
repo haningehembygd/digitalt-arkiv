@@ -1,20 +1,22 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Harald Jansson – trädgårdsmästarpionjär i Tungelsta
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
-- Antal delar: 2
+- Nummer: 007
+- Lokal samling: `007-harald-jansson-tungelsta`
+- Release: `ljud-007-harald-jansson-tungelsta-v1`
+- Antal delar: 4
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En intervju med Harald Jansson, trädgårdsmästarpionjär i Tungelsta och kommunalpolitiker.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `harald-jansson-del-01.mp3`
+- `harald-jansson-del-02.mp3`
+- `harald-jansson-del-03.mp3`
+- `harald-jansson-del-04.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +37,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-007-harald-jansson-tungelsta-v1`

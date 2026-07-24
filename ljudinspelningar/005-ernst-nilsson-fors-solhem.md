@@ -1,20 +1,19 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Ernst Nilsson – Fors, senare Solhem
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
-- Antal delar: 2
+- Nummer: 005
+- Lokal samling: `005-ernst-nilsson-fors-solhem`
+- Release: `ljud-005-ernst-nilsson-fors-solhem-v1`
+- Antal delar: 1
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En ljudinspelning med Ernst Nilsson, knuten till Fors och senare Solhem, verksam som tvättare och samhällsprofil.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `ernst-nilsson-fors-solhem.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +34,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-005-ernst-nilsson-fors-solhem-v1`

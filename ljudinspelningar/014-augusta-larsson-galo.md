@@ -1,20 +1,19 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Augusta Larsson – Gålö
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
-- Antal delar: 2
+- Nummer: 014
+- Lokal samling: `014-augusta-larsson-galo`
+- Release: `ljud-014-augusta-larsson-galo-v1`
+- Antal delar: 1
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En historisk ljudinspelning med Augusta Larsson med anknytning till Gålö.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `augusta-larsson-galo.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +34,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-014-augusta-larsson-galo-v1`

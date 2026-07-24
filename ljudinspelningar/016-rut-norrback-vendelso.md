@@ -1,20 +1,20 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Rut Norrback – Vendelsö
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
+- Nummer: 016
+- Lokal samling: `016-rut-norrback-vendelso`
+- Release: `ljud-016-rut-norrback-vendelso-v1`
 - Antal delar: 2
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En intervju med Rut Norrback med anknytning till Vendelsö.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `rut-norrback-del-01.mp3`
+- `rut-norrback-del-02.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +35,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-016-rut-norrback-vendelso-v1`

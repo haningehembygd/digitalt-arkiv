@@ -1,20 +1,20 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Runar Alvesäter om busstrafiken på Södertörn
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
+- Nummer: 021
+- Lokal samling: `021-runar-alvesater-busstrafiken-pa-sodertorn`
+- Release: `ljud-021-runar-alvesater-busstrafiken-pa-sodertorn-v1`
 - Antal delar: 2
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+Runar Alvesäter intervjuas av Mauritz Henriksson om busstrafiken på Södertörn.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `runar-alvesater-del-01.mp3`
+- `runar-alvesater-del-02.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +35,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-021-runar-alvesater-busstrafiken-pa-sodertorn-v1`

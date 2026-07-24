@@ -1,20 +1,24 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Rune Warmark – kommunalpolitiker
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
-- Antal delar: 2
+- Nummer: 019
+- Lokal samling: `019-rune-warmark`
+- Release: `ljud-019-rune-warmark-v1`
+- Antal delar: 6
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En intervju med Rune Warmark om hans liv och verksamhet som kommunalpolitiker.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `rune-warmark-del-01.mp3`
+- `rune-warmark-del-02.mp3`
+- `rune-warmark-del-03.mp3`
+- `rune-warmark-del-04.mp3`
+- `rune-warmark-del-05.mp3`
+- `rune-warmark-del-06.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +39,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-019-rune-warmark-v1`

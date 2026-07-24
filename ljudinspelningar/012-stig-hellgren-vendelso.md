@@ -1,20 +1,19 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Stig Hellgren – kommunalpolitiker, musiker och Vendelsöprofil
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
-- Antal delar: 2
+- Nummer: 012
+- Lokal samling: `012-stig-hellgren-vendelso`
+- Release: `ljud-012-stig-hellgren-vendelso-v1`
+- Antal delar: 1
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En ljudinspelning med Stig Hellgren, kommunalpolitiker, musiker och profil i Vendelsö.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `stig-hellgren-vendelso.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +34,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-012-stig-hellgren-vendelso-v1`

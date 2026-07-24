@@ -1,20 +1,19 @@
-# Sandra Hagerstrand berättar om Skarsvik
+# Josef Enqvist – Västerhaninges första kommunalkamrer
 
 ## Identifierare
 
-- Nummer: 001
-- Lokal samling: `001-sandra-hagerstrand-skarsvik`
-- Release: `ljud-001-sandra-hagerstrand-skarsvik-v1`
-- Antal delar: 2
+- Nummer: 002
+- Lokal samling: `002-josef-enqvist-kommunalkamrer`
+- Release: `ljud-002-josef-enqvist-kommunalkamrer-v1`
+- Antal delar: 1
 
 ## Innehåll
 
-Sandra Hagerstrand berättar bland annat om Skarsvik. Inspelningen består av två delar.
+En ljudinspelning med Josef Enqvist, Västerhaninges första kommunalkamrer.
 
 ## Filer
 
-- `sandra-hagerstrand-del-01-skarsvik.mp3`
-- `sandra-hagerstrand-del-02.mp3`
+- `josef-enqvist-vasterhaninges-forsta-kommunalkamrer.mp3`
 - `SHA256SUMS`
 - `RELEASE-NOTES.md`
 
@@ -35,4 +34,4 @@ Haninge Hembygdsgille.
 
 Ljudfilerna ska publiceras som tillgångar i GitHub-releasen:
 
-`ljud-001-sandra-hagerstrand-skarsvik-v1`
+`ljud-002-josef-enqvist-kommunalkamrer-v1`
